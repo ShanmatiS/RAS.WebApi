@@ -1,0 +1,61 @@
+{
+  "author": "Gary Lee",
+  "customer": {
+    "name": "Jersy Cargo Logistics",
+    "address": {
+      "line1": "4 Florence Alley",
+      "line2": "Coolidge Junction",
+      "city": "Comanche",
+      "state": "Namekagon",
+      "zip": 98001
+    }
+  },
+  "invoice": {
+    "number": "AFC4S1222203171",
+    "date": "09-04-2021, 10:23 AM",
+    "customerId": "31LPAC20149E1T",
+    "currency": "$",
+    "taxPercentage": 2.9,
+    "shippingCharge": 4.49,
+    "miscellaneous": 1.3,
+    "notesSection": "The goods sold are intended for end user consumption and not for resale",
+    "orderDetails": {
+      "date": "09-04-2021, 10:20 AM",
+      "customerPO": "CPO-12345-09876",
+      "orderNo": "OD2100397138762021",
+      "salesRep": "Handicrafts",
+      "shipping": "Jang Cargo"
+    },
+    "billDetails": [
+      {
+        "quantity": "2",
+        "item": "Aviator Sunglass",
+        "description": "Light weight, thin and grey color",
+        "discount": -25,
+        "total": 225
+      },
+      {
+        "quantity": "1",
+        "item": "Bike Helmet",
+        "description": "ISI approved. Ideal for: Boys, Compact design and strong",
+        "discount": 0,
+        "total": 450
+      }
+    ]
+  },
+  "company": {
+    "name": "Projected",
+    "address": {
+      "line1": "13H Coastal Road",
+      "line2": "Whitestone Bridge",
+      "city": "Houston",
+      "state": "Texas",
+      "zip": 12345
+    }
+  },
+  "bankDetails": {
+    "Name": "Safety Center Bank",
+    "routingNo": 123456789,
+    "accountNo": 100200300400
+  }
+}
